@@ -1,59 +1,58 @@
 <!-- Diese Datei beinhaltet lokalisierte Strings für die .xul-Dateien von Perspectives -->
 <!ENTITY NotaryResults "Ergebnisse des Notars">
-<!ENTITY ViewNotaryResults "Ergebnisse des Notars anshen">
+<!ENTITY ViewNotaryResults "Ergebnisse des Notars ansehen">
 <!ENTITY Preferences "Einstellungen">
 <!ENTITY NoQuorumInformation "Keine Quorum-Informationen vorhanden">
 <!ENTITY ThereisnoPerspectivesinformationavailableforthislocation "Es gibt keine Perspectives-Informationen zu dieser Website">
 <!ENTITY Timeline "Zeitachse">
 <!ENTITY SecuritySettings "Sicherheitseinstellungen">
 <!ENTITY HighSecurity "Hohe Sicherheit">
-<!ENTITY MediumSecurity "Mittelstufige Sicherheit">
+<!ENTITY MediumSecurity "Mittlere Sicherheit">
 <!ENTITY HighAvailability "Hohe Verfügbarkeit">
 <!ENTITY ManualConfiguration "Manuelle Konfiguration">
-<!ENTITY Percentageofnotariesthatmustagree "Prozentsatz der zustimmigen Notare (Quorum-Prozensatz): ">
-<!ENTITY Lengthoftimequorummustbeachieved "Nötgie Tage der kontinuierlichen Übereinkunft (Quorum-Länge): ">
-<!ENTITY OverridingFirefoxSecurityErrors "Firefox-Sicherheitsfehler aufheben">
-<!ENTITY AllowPerspectivestoautomaticallyoverridesecurityerrors "Perspectives erlauben, Sicherheitsfehler automatische aufzuheben">
+<!ENTITY Percentageofnotariesthatmustagree "Prozentsatz der zustimmenden Notare (Quorum-Prozensatz): ">
+<!ENTITY Lengthoftimequorummustbeachieved "Nötige Tage der kontinuierlichen Übereinkunft (Quorum-Länge): ">
+<!ENTITY OverridingFirefoxSecurityErrors "Firefox-Sicherheitsfehler beheben">
+<!ENTITY AllowPerspectivestoautomaticallyoverridesecurityerrors "Perspectives erlauben, Sicherheitsfehler automatisch zu beheben">
 <!ENTITY PermanentlytrustcertificatesvalidatedbyPerspectives "Von Perspectives für gültig erklärten Zertifikaten permanent trauen">
-<!ENTITY WhentoContactNotaries "Bedingung zum Nachfragen bei Notaren">
-<!ENTITY ContactNotariesforallHTTPSsites "Für alle HTTPS-Websites bei Notaren nachfragen">
-<!ENTITY ContactNotariesonlywhenawebsitescertificatecausesasecurityerror "Nur bei Sicherheitsfehler wegen des Zertifikats einer Website bei Notaren nachfragen">
-<!ENTITY AlwaysasktheuserbeforecontactingNotaries "Immer den Benutzer vor dem Nachfragen bei Notaren fragen">
-<!ENTITY Certificates "Zertificate">
-<!ENTITY Servers "Notarenservers">
+<!ENTITY WhentoContactNotaries "Notare kontaktieren">
+<!ENTITY ContactNotariesforallHTTPSsites "Notare für alle HTTPS-Websites kontaktieren">
+<!ENTITY ContactNotariesonlywhenawebsitescertificatecausesasecurityerror "Notare nur bei Sicherheitsfehlern kontaktieren">
+<!ENTITY AlwaysasktheuserbeforecontactingNotaries "Vor dem Kontaktieren der Notare immer nachfragen">
+<!ENTITY Certificates "Zertifikate">
+<!ENTITY Servers "Notar-Server">
 <!ENTITY Help "Hilfe">
 <!ENTITY OK "OK">
 <!ENTITY Close "Schließen">
 <!ENTITY Cancel "Abbrechen">
-<!ENTITY Addtowhitelist "In die Whitelist eintragen">
-<!ENTITY Addsitetowhitelist "Website in die Whitelist eintragen">
-<!ENTITY Whitelistmessage "Nur für Profis: Wenn Sie eine Website in die Whitelist eintragen, traut Perspectives automatisch allen Verbindungen damit, ohne bei den Notaren nachzufragen. Dies sollten Sie nur dann tun, wenn Sie die Risiken verstehen.">
+<!ENTITY Addtowhitelist "Zu Whitelist hinzufügen">
+<!ENTITY Addsitetowhitelist "Website der Whitelist hinzufügen">
+<!ENTITY Whitelistmessage "Für Experten: Wenn Sie eine Website der Whitelist hinzufügen, traut Perspectives automatisch allen diesen Verbindungen, ohne die Notare zu kontaktieren. Tun Sie dies nur, wenn Ihnen die Folgen bewusst sind!">
 <!ENTITY ReportPossibleAttack "Möglichen Angriff melden">
-<!ENTITY ReportAttackMessage "Indem Sie einen Angriff melden, kann das Perspectives-Projekt diese Erweiterung verbessern und Ungeschützheiten im Internet bekämpfen.">
-<!ENTITY SendFullReport "Vollbericht einreichen">
-<!ENTITY SendPrivacyReport "Datengeschutzer Bericht einreichen">
+<!ENTITY ReportAttackMessage "Wenn Sie einen Angriff melden, kann das Perspectives-Projekt diese Erweiterung verbessern und Schwachstellen im Internet bekämpfen.">
+<!ENTITY SendFullReport "Bericht einreichen">
+<!ENTITY SendPrivacyReport "Anonymen Bericht einreichen">
 <!ENTITY Optional "Optionen">
-<!ENTITY EmailDescription "Email-Adresse bei Rückfragebedarf">
+<!ENTITY EmailDescription "Email-Adresse für Rückfragen">
 <!ENTITY AdditionalInfoMessage "Weitere Informationen zu den Umständen dieses möglichen Angriffs">
 <!ENTITY ShowDetailedReportText "Detaillierten Berichtstext anzeigen">
 <!ENTITY SubmitReport "Bericht einreichen">
 <!ENTITY DetailedInformation "Detaillierte Informationen">
-<!ENTITY CertificateValidation "Zertifikatengültigkeitsprüfung">
+<!ENTITY CertificateValidation "Zertifikatsvalidierung">
 <!ENTITY AutoTrust "Zertifikaten für folgende Websites automatisch trauen">
-<!ENTITY DefaultNotaryServers "Standardnotarenservers">
-<!ENTITY UseDefaultNotaries "Liste der Standardnotarenservers benutzen">
-<!ENTITY AdditionalNotaryServers "Weitere Notarenservers">
-<!ENTITY ForceNotaryCheck "Nachfragen bei Notaren zwingen">
+<!ENTITY DefaultNotaryServers "Standard-Notar-Server">
+<!ENTITY UseDefaultNotaries "Liste der Standard-Notar-Server benutzen">
+<!ENTITY AdditionalNotaryServers "Weitere Notar-Server">
+<!ENTITY ForceNotaryCheck "Nachfragen bei Notaren erzwingen">
 <!ENTITY ReportAttack "Angriff melden">
 <!ENTITY ViewCertificateStore "Zertifikatspeicher anzeigen">
-<!-- TODO: Please translate! -->
-<!ENTITY About "About Perspectives">
-<!ENTITY AboutMainCredit "Perspectives Client - Firefox Extension, by Dan Wendlandt">
-<!ENTITY ContributorTitle "Contributors">
-<!ENTITY ContributorSubTitle "(listed alphabetically by last name)">
-<!ENTITY ContributorText "Many thanks to the following people who contributed bug reports, documentation, code patches, and/or ideas">
-<!ENTITY TranslatorTitle "Translators">
-<!ENTITY TranslatorSubTitle "(listed alphabetically by locale code)">
-<!ENTITY TranslatorText "Many thanks to the following people who contributed translations">
-<!ENTITY ClickToVisitWebsite "Click to visit the Perspectives website">
+<!ENTITY About "Über Perspectives">
+<!ENTITY AboutMainCredit "Perspectives Client - Firefox Extension von Dan Wendlandt">
+<!ENTITY ContributorTitle "Unterstützer">
+<!ENTITY ContributorSubTitle "(in alphabetischer Reihenfolge)">
+<!ENTITY ContributorText "Vielen Dank an die Unterstützer, die durch Bug Reports, Dokumentation, Code Patches und Ideen zu diesem Projekt beigetragen haben">
+<!ENTITY TranslatorTitle "Übersetzer">
+<!ENTITY TranslatorSubTitle "(in alphabetischer Reihenfolge)">
+<!ENTITY TranslatorText "Vielen Dank an die folgenden Übersetzer">
+<!ENTITY ClickToVisitWebsite "Die Perspectives Website besuchen">
 
